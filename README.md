@@ -1,8 +1,8 @@
-Hello! My name is Vladyslav Panas. I am from Ternopil National Technic University taking BS Software Engineering.
+Hello! My name is Vladyslav Panas. I am a student from Ukraine.
 
 📌 About Me
 
-👨‍💻 I am a first-year BS Software Engineering student at Ternopil National Technical University.
+👨‍💻 I am from Ternopil National Technical University taking BS Software Engineering.
 
 💡 Passionate about learning C++ programming.
 
