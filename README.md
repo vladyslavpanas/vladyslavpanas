@@ -1,3 +1,4 @@
+![Hujambo Hello GIF](https://github.com/user-attachments/assets/04cda3ba-ae5d-4344-bb5c-0e73dbe7f8b5)
 # Hi! My name is Vladyslav Panas. I am a student from Ukraine.
 ![Revenge Of The Sith Prequel GIF](https://github.com/user-attachments/assets/06e9c90e-a633-4b96-8207-a45e71f3b80a)
 
