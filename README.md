@@ -6,7 +6,7 @@ I am Vladyslav Panas, currently studying for a bachelor's degree in Software eng
 
 ## 🏫 **Education**:
 
-Bachelor of Software engineering in Ternopil Ivan Puluj National Technical University 2024-2028
+Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical University (2024–2028)
 
 ## 🌍 **Language**:
 
