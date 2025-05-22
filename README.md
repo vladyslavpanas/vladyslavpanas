@@ -82,9 +82,9 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 
 - ### Completed:
 
-    - [Git Fundamentals](https://app.datacamp.com/learn/skill-tracks/git-fundamentals)
+    - [Git Fundamentals]([https://app.datacamp.com/learn/skill-tracks/git-fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/78dbc438b11a081892e898c33e742c93c6c50d3e))
 
-    - [GitHub Foundations](https://app.datacamp.com/learn/skill-tracks/github-foundations)
+    - [GitHub Foundations]([https://app.datacamp.com/learn/skill-tracks/github-foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/315da4609b74282d2623e24a74c6219c7c827aa0))
 
 - ### In-progress:
 
