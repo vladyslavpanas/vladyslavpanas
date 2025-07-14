@@ -56,7 +56,7 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 
 ## 🎯 **Goals**:
 
-- ### Direction of interest: Backend development, Desktop Applications, Cybersecurity, 
+- ### Direction of interest: Backend development, Desktop Applications, Cybersecurity, AI
 
 - ### Preferred team role: Backend Developer
 
