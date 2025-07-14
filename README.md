@@ -56,6 +56,14 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 
 ## 🎯 **Goals**:
 
+- ### Direction of interest: Backend development, Desktop Applications, Cybersecurity, 
+
+- ### Preferred team role: Backend Developer
+
+- ### Tech stack: C++, HTML
+
+---
+
 - Improve and deepen my knowledge of C++ programming.
 
 - Learn Python to expand my software development skills.
