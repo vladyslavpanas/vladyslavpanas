@@ -11,11 +11,8 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 ## 🌍 **Language**:
 
 - English - С1 (Advanced)
-
 - Ukrainian - Native
-
 - French - A1 (Beginner)
-
 - German - A2 (Elementary)
 
 ## 🛠️ **Hard skills**:
@@ -23,9 +20,7 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 - Programming languages:
 
     - C/C++
-
     - Python
-
     - HTML
 
 - Git:
@@ -39,37 +34,19 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 ## 🧠 **Soft skills**:
 
 - Willingness to learn new technologies
-
 - Curiosity and eagerness to learn
-
 - Collaboration and interpersonal skills
-
 - Patience and persistence
-
 - Attention to detail
-
 - Ability to work under pressure
-
 - Goal-oriented mindset
-
 - Communication skills
 
 ## 🎯 **Goals**:
 
-- ### Direction of interest: Backend development, Desktop Applications, Cybersecurity, AI
-
-- ### Preferred team role: Backend Developer
-
-- ### Tech stack: C++, HTML
-
----
-
 - Improve and deepen my knowledge of C++ programming.
-
 - Learn Python to expand my software development skills.
-
 - Study artificial intelligence (AI) technologies to explore modern IT trends and applications.
-
 - Start developing my own software projects to apply my skills and gain practical experience.
 
 ## 📝 **Experience**:
@@ -77,15 +54,15 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 ### Self-Education and Practice:
 
 - Learning programming through various online courses and tutorials.
-
 - Participated in the "Horse Marathon 2025" organized by Uzhhorod National University (UzhNU).
-
 - Solved several algorithmic problems on Codeforces as part of my self-learning journey.
-
 - Practicing coding regularly in C++ and Python.
 
 ### Completed Datacamp skill tracks:
 
 - [Git Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/78dbc438b11a081892e898c33e742c93c6c50d3e)
-
 - [GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/315da4609b74282d2623e24a74c6219c7c827aa0)
+- [AI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/bfa0a1df2ce0d66bfd719b856633abeb6d1f5415)
+- [SQL for Database Administrators](https://www.datacamp.com/completed/statement-of-accomplishment/track/9fda064881c44f1c57ed22c927a5e35f51e222cc)
+- [Python Programming Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/9337a2fc3cddfadbb536a5f1602fcad0a1b45232)
+- [Associate Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/7c5dff3e24bbfd1aaaa63c55c4673fb48297f99c)
