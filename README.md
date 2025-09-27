@@ -66,3 +66,5 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 - [SQL for Database Administrators](https://www.datacamp.com/completed/statement-of-accomplishment/track/9fda064881c44f1c57ed22c927a5e35f51e222cc)
 - [Python Programming Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/9337a2fc3cddfadbb536a5f1602fcad0a1b45232)
 - [Associate Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/7c5dff3e24bbfd1aaaa63c55c4673fb48297f99c)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavpanas&show_icons=true&theme=nightowl&border_radius=20)](https://github.com/vladyslavpanas)
