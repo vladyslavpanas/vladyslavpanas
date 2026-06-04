@@ -2,7 +2,7 @@
 
 ## 📌 **About me**:
 
-I am Vladyslav Panas, currently studying for a bachelor's degree in Software engineering. Experienced with Git version control, including branching strategies, remote repositories, and collaboration via GitHub. Passionate about learning new technologies and improving my programming skills in C++ and Python. Motivated to apply my knowledge in real-world projects and contribute effectively to team success.
+I am Vladyslav Panas, currently studying for a bachelor's degree in Software engineering. Experienced with Git version control, including branching strategies, remote repositories, and collaboration via GitHub. Passionate about learning new technologies and improving my programming skills in C++ and Python, SQL. Motivated to apply my knowledge in real-world projects and contribute effectively to team success.
 
 ## 🏫 **Education**:
 
@@ -13,7 +13,7 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 - English - С1 (Advanced)
 - Ukrainian - Native
 - French - A1 (Beginner)
-- German - A2 (Elementary)
+- German - A1 (Beginner)
 
 ## 🛠️ **Hard skills**:
 
@@ -21,7 +21,7 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 
     - C/C++
     - Python
-    - HTML
+    - SQL
 
 - Git:
 
@@ -63,6 +63,7 @@ Bachelor of Software Engineering at Ternopil Ivan Puluj National Technical Unive
 - [Git Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/78dbc438b11a081892e898c33e742c93c6c50d3e)
 - [GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/315da4609b74282d2623e24a74c6219c7c827aa0)
 - [AI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/bfa0a1df2ce0d66bfd719b856633abeb6d1f5415)
+- [SQL Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/109bb5087a6548a060b240ab5a140c274a91f172)
 - [SQL for Database Administrators](https://www.datacamp.com/completed/statement-of-accomplishment/track/9fda064881c44f1c57ed22c927a5e35f51e222cc)
 - [Python Programming Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/9337a2fc3cddfadbb536a5f1602fcad0a1b45232)
 - [Associate Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/7c5dff3e24bbfd1aaaa63c55c4673fb48297f99c)
